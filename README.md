@@ -20,6 +20,7 @@ Este projeto me permitiu praticar:
 
 ## Screenshot
 <img src="preview.jpg" alt="screenshot">
+Acesse pelo GitHub pages <a href="https://samuelc-abreu.github.io/QR-Code-Component-Frontend-Mentor/">clicando aqui.</a>
 
 ## Créditos
 
