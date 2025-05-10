@@ -18,6 +18,9 @@ Este projeto me permitiu praticar:
 - Uso de variáveis CSS para consistência de design
 - Responsividade sem o uso de frameworks
 
+## Screenshot
+<img src="preview.jpg" alt="screenshot">
+
 ## Créditos
 
 - Design fornecido por [Frontend Mentor](https://www.frontendmentor.io)
